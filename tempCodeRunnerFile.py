@@ -1,3 +1,4 @@
+a, b = map(int, input("Enter the numbers seperated by space: ").split())
 
-print("After Swapping:")
-print(x, y)
+max = lambda a, b: a if a > b else b
+print(max(a, b)) 
