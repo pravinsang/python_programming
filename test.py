@@ -27,4 +27,15 @@
 # for animal in animals:
 #     can_speak(animal)
 
+# a = 10
+# b = a/0
+# print(b)
+
+# print(10 + "Hello")
+
+# print(hello())
+
+# numbers = [1, 2, 3, 4]
+# print(numbers[4])
+
 
