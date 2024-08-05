@@ -1,0 +1,14 @@
+ERROR:root:An error occurred with a, b = 20, 0
+Traceback (most recent call last):
+  File "e:\python_programming\logging_3.py", line 8, in div
+    return a / b
+ZeroDivisionError: division by zero
+DEBUG:root:Division failed for 20/0
+DEBUG:root:20/10 = 2.0
+DEBUG:root:20/5 = 4.0
+ERROR:root:An error occurred with a, b = 20, 0
+Traceback (most recent call last):
+  File "e:\python_programming\logging_3.py", line 8, in div
+    return a / b
+ZeroDivisionError: division by zero
+DEBUG:root:Division failed for 20/0
