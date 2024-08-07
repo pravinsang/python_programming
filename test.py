@@ -39,3 +39,7 @@
 # print(numbers[4])
 
 
+# a = 10
+# b = 0 
+# assert b != 0, "B cannot be negative"
+# print(a / b)

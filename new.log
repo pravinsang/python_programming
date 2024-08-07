@@ -1,0 +1,26 @@
+DEBUG:root:10/20 = 0.5
+DEBUG:root:10/5 = 2.0
+ERROR:root:An error occurred with a, b = 10, 0
+Traceback (most recent call last):
+  File "e:\python_programming\lecture_4.py", line 42, in div
+    return a / b
+ZeroDivisionError: division by zero
+DEBUG:root:10/0 = None
+DEBUG:root:10/1 = 10.0
+ERROR:root:An error occurred with a, b = 20, 0
+Traceback (most recent call last):
+  File "e:\python_programming\lecture_4.py", line 42, in div
+    return a / b
+ZeroDivisionError: division by zero
+DEBUG:root:20/0 = None
+ERROR:root:An error occurred with a, b = 20, 0
+Traceback (most recent call last):
+  File "e:\python_programming\lecture_4.py", line 42, in div
+    return a / b
+ZeroDivisionError: division by zero
+INFO:root:20/0 = None
+ERROR:root:An error occurred with a, b = 20, 0
+Traceback (most recent call last):
+  File "e:\python_programming\lecture_4.py", line 42, in div
+    return a / b
+ZeroDivisionError: division by zero

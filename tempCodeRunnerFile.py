@@ -1,1 +1,1 @@
-Point(x, y)
+print(type(solution))
