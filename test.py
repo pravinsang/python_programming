@@ -43,3 +43,7 @@
 # b = 0 
 # assert b != 0, "B cannot be negative"
 # print(a / b)
+
+# from math import prod
+# print(prod([2,4,6,8,10]))
+
